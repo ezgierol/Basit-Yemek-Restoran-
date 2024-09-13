@@ -1,3 +1,5 @@
+https://basit-yemek-restoran-swart.vercel.app/
+
 <!--  HTML kısmına bir göz atın. Buradaki görevinizin bir kısmı Html'i JSX'e "çevirmektir". Yüzeyde HTML ve JSX oldukça benzerdir, bu nedenle yapmanız gereken yalnızca bazı küçük değişiklikler vardır. İstenilen format için public içerisindeki preview.png dosyasına bakabilirsiniz
 
 
